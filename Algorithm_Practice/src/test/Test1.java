@@ -3,7 +3,7 @@ package test;
 import java.util.Arrays;
 
 public class Test1 {
-
+	//살짝 수정되니?
 	public static void main(String[] args) {
 		
 		String res = reverseStr("Zbcdefg");
